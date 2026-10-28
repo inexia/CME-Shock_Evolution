@@ -1,0 +1,26 @@
+# Python cache
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local environments and secrets
+.venv/
+.env
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Optional: large generated outputs
+data/
+corhel/
+figure/
+reference/
+fitted results/
+utils/
