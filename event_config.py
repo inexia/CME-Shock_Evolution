@@ -59,7 +59,7 @@ BACKGROUND_N_SCALE = 1.0                    # multiply the model density by this
 ARRIVAL_TIME = '2021-10-31 09:32'           # 'YYYY-MM-DD HH:MM' (UT)
 ARRIVAL_SPEED = 450                         # in-situ shock speed [km/s]
 SC_DISTANCE_AU = 1.00                       # heliocentric distance of that spacecraft [AU]
-SC_LON = 0.0                               # its Stonyhurst longitude [deg] (0 = Earth / L1)
+SC_LON = 0.                               # its Stonyhurst longitude [deg] (0 = Earth / L1)
 SC_LAT = 0.0                                # its latitude [deg]; 0 is the usual assumption
 # ==========================================================================
 
